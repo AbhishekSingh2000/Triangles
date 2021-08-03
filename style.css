@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700;900&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url(/bg.jpg);
+}
+
+
+h1{
+    margin: 35px;
+    font-size: 90px;
+    color: white;
+    background-color: #1E3A8A;
+    text-align: center;
+}
+
+#containeri{
+    width: 800px;
+    margin: auto;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+#link1{
+    display: inline-flex;
+    width: 100px;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #1E3A8A;
+}
+
+#link2{
+    display: inline-flex;
+    width: 100px;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #1E3A8A;
+    height: 114px;
+}
+
+#link3{
+    display: inline-flex;
+    width: 100px;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #1E3A8A;
+    height: 114px;
+} 
+    
+
+#link4{
+    display: inline-flex;
+    width: 100px;
+    margin: auto; 
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #1E3A8A;
+    height: 114px;
+    vertical-align: center;
+}
+
+#containerh{
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+}
+
+#hh{
+    font-size: 62px;
+    text-align: center;
+    color: white;
+    background-color: #1E3A8A;
+}
+
+li{
+    list-style: none;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+#btnside{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+input{
+    display: block;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+#outputh{
+   margin: 20px; 
+   margin-left: 70px;
+}
+
+#ha{
+    font-size: 47px;
+    text-align: center;
+    color: white;
+    background-color: #1E3A8A;
+}
+
+#area1{
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+}
+
+#area2{
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+}
+
+#area3{
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+}
+
+.inputa{
+    display: block;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-bottom: 30px;
+}
+
+#hq{
+    font-size: 63px;
+    text-align: center;
+    color: white;
+    background-color: #1E3A8A;
+}
+
+.ow{
+    max-width: 60%;
+    margin: auto;
+    text-align: left;
+    margin-top: 50px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+} 
+
+#submitQuiz{
+    width: 100px;
+    margin: auto;
+    margin-left: 600px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background-color: #1E3A8A;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#outputq{
+    width: 300px;
+    margin: auto;
+    margin-left: 600px;
+    font-size: large;
+    color: black;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#hp{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    background-color: #1E3A8A;
+}
+
+#containerp{
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+}
+
